@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #SQUAD span
+{
+    background-image: url(http://10.16.100.244/files/squad.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Sooryavanshi span
 {
     background-image: url(https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sooryavanshi-et00097952-27-10-2021-05-17-20.jpg);
