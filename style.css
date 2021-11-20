@@ -36,6 +36,13 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
+.container #EnthaManchivaadavuraa span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMDQyYzExNjAtZjU2Yi00NzFlLTk2ODItOGY4NzU5OTE5MjEyXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Sooryavanshi span
 {
     background-image: url(https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sooryavanshi-et00097952-27-10-2021-05-17-20.jpg);
