@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #Tadap span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/c/c7/Tadap_film_poster.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Dhamaka span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BMjA0MjE1MzMtNmJiNy00ZTA1LWFhNWUtNjcwNGRmNzM1NDdiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg);
